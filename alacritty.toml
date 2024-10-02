@@ -1,0 +1,14 @@
+[window]
+padding = { x = 2, y = 2 }
+dynamic_padding = true
+#decorations = "None"
+opacity = 0.75
+dynamic_title = false
+title = "Alacritty"
+decorations_theme_variant = "Dark"
+dimensions = { columns = 100, lines = 25 }
+startup_mode = "Windowed"
+[font]
+normal = { family = "FiraCode Nerd Font Mono", style = "Regular" }
+size = 12.5
+
